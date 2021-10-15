@@ -16275,7 +16275,6 @@ GameObject:
   - component: {fileID: 976533682}
   - component: {fileID: 976533681}
   - component: {fileID: 976533680}
-  - component: {fileID: 976533686}
   - component: {fileID: 976533685}
   - component: {fileID: 976533684}
   m_Layer: 0
@@ -16775,14 +16774,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &976533686
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 976533678}
-  m_Mesh: {fileID: -4355270496013450674, guid: 485dc3ef9a7ceb743b2de91e78217570, type: 3}
 --- !u!43 &978640937
 Mesh:
   m_ObjectHideFlags: 0
